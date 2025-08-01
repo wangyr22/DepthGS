@@ -1,0 +1,17 @@
+torch==2.5.1
+torchvision==0.20.1
+torchaudio
+numpy==1.26.4
+wheel
+tqdm
+evo
+scipy
+open3d
+gdown
+opencv-python==4.9.0.80
+pyyaml
+imageio
+kornia
+pytorch-msssim
+torchmetrics
+plyfile
