@@ -100,6 +100,7 @@ to get `splat.ply`, which can be visualized with tools such as [SuperSplat](http
 We base our work on the great work [SplaTAM](https://github.com/spla-tam/SplaTAM). We also a lot for the excellent work [DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM).
 
 ## Citation
+If you find this project helpful, please consider citing the following paper:
 ```
 @article{zhao2025pseudo, 
       title={Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline}, 
@@ -107,9 +108,6 @@ We base our work on the great work [SplaTAM](https://github.com/spla-tam/SplaTAM
       journal={arXiv preprint arXiv:2508.04597},
       year={2025}
 }
-```
-
-If you find this project helpful, please consider citing the following paper:
 ```
 # TODO
 ```
