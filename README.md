@@ -1,8 +1,8 @@
 # Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
-### Paper(TODO)
+### [Paper](https://arxiv.org/abs/2508.04597)
 
 > Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline  
-> [Linqing Zhao](https://scholar.google.com/citations?user=ypxt5UEAAAAJ&hl=zh-CN&oi=ao)\*, [Xiuwei Xu](https://xuxw98.github.io/)\*, Yirui Wang, Hao Wang, [Wenzhao Zheng](https://wzzheng.net/), [Yansong Tang](https://andytang15.github.io/), [Haibin Yan](https://scholar.google.com/citations?user=-AQLKlsAAAAJ&hl=zh-CN)†, [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
+> [Linqing Zhao](https://lqzhao.github.io/)\*, [Xiuwei Xu](https://xuxw98.github.io/)\*, Yirui Wang, Hao Wang, [Wenzhao Zheng](https://wzzheng.net/), [Yansong Tang](https://andytang15.github.io/), [Haibin Yan](https://scholar.google.com/citations?user=-AQLKlsAAAAJ&hl=zh-CN)†, [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
 
 \* Equal contribution, † Corresponding author
 
@@ -100,6 +100,14 @@ to get `splat.ply`, which can be visualized with tools such as [SuperSplat](http
 We base our work on the great work [SplaTAM](https://github.com/spla-tam/SplaTAM). We also a lot for the excellent work [DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM).
 
 ## Citation
+```
+@article{zhao2025pseudo, 
+      title={Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline}, 
+      author={Linqing Zhao and Xiuwei Xu and Yirui Wang and Hao Wang and Wenzhao Zheng and Yansong Tang and Haibin Yan and Jiwen Lu},
+      journal={arXiv preprint arXiv:2508.04597},
+      year={2025}
+}
+```
 
 If you find this project helpful, please consider citing the following paper:
 ```
