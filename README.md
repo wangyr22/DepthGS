@@ -109,5 +109,3 @@ If you find this project helpful, please consider citing the following paper:
       year={2025}
 }
 ```
-# TODO
-```
