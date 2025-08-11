@@ -12,11 +12,16 @@ DepthGS is a RGB-SLAM system that integrates monocular depth estimation, 3DGS sc
 - [2025/06/16] Paper accepted to IROS 2025 :confetti_ball:
 - [2025/08/01] Code released :rocket:
 
+## Demo
+
+![demo1](./assets/demo1.gif)
+
+![demo2](./assets/demo2.gif)
+
 ## Method
 
 Method pipeline:
 ![pipeline](./assets/pipeline.png)
-
 
 ## Getting Started
 
